@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/gsiris
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gsiris.github.io
+  * I am gsiris (https://keybase.io/gsiris) on keybase.
+  * I have a public key ASDPZZuGtyI0o6lSPVAFymX-Iq_AieybzZiSxBXjulF3Rgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120cf659b86b72234a3a9523d5005ca65fe22afc089ec9bcd989
+2c415e3ba5177460a",
+            "host": "keybase.io",
+            "kid": "0120cf659b86b72234a3a9523d5005ca65fe22afc089ec9bcd9892c415e3
+ba5177460a",
+            "uid": "d4b215c791b0b388b0a567311effca19",
+            "username": "gsiris"
+        },
+        "service": {
+            "hostname": "gsiris.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473940396,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473940318,
+        "hash": "893034f83599f647f5394336b69798fc4c5258bf07453637d017be5a4dc3df0
+04953ea3e3d7ae4dd3538ecf2f9043c30098d5dc9077e019663f611b3c5f36152",
+        "seqno": 637529
+    },
+    "prev": "2cb7780251c23cb8d00ea467300e837f4874506fbf2c3320cd6cd59cb5206112",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz2WbhrciNKOpUj1QBcpl/iKvwInsm82Y
+ksQV47pRd0YKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2Y2NTli
+ODZiNzIyMzRhM2E5NTIzZDUwMDVjYTY1ZmUyMmFmYzA4OWVjOWJjZDk4OTJjNDE1ZTNiYTUxNzc0NjBh
+IiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2Y2NTliODZiNzIyMzRhM2E5NTIzZDUwMDVj
+YTY1ZmUyMmFmYzA4OWVjOWJjZDk4OTJjNDE1ZTNiYTUxNzc0NjBhIiwidWlkIjoiZDRiMjE1Yzc5MWIw
+YjM4OGIwYTU2NzMxMWVmZmNhMTkiLCJ1c2VybmFtZSI6ImdzaXJpcyJ9LCJzZXJ2aWNlIjp7Imhvc3Ru
+YW1lIjoiZ3NpcmlzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2Vy
+dmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBj
+bGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDczOTQwMzk2LCJleHBpcmVfaW4iOjUw
+NDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzM5NDAzMTgsImhhc2giOiI4OTMwMzRmODM1
+OTlmNjQ3ZjUzOTQzMzZiNjk3OThmYzRjNTI1OGJmMDc0NTM2MzdkMDE3YmU1YTRkYzNkZjAwNDk1M2Vh
+M2UzZDdhZTRkZDM1MzhlY2YyZjkwNDNjMzAwOThkNWRjOTA3N2UwMTk2NjNmNjExYjNjNWYzNjE1MiIs
+InNlcW5vIjo2Mzc1Mjl9LCJwcmV2IjoiMmNiNzc4MDI1MWMyM2NiOGQwMGVhNDY3MzAwZTgzN2Y0ODc0
+NTA2ZmJmMmMzMzIwY2Q2Y2Q1OWNiNTIwNjExMiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2j
+c2lnxEBHfV22OjNyr8CXO0VEp77Fi7j1L0wcmy2Msy+hhl+c5NzqD7b/+YwH7+i1AojUrIdVtDs7oClh
+DZS1V8IpYxYBqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgiiSubT6t6CWzAQtSoJUoO/AAcqNI
+sUVW0YchilvmsgujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gsiris
+
+==================================================================
